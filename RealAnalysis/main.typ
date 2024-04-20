@@ -249,7 +249,7 @@
   $ "if" a_n <= c "for all" n, "then" a <= c. $
 ]
 
-#tho("the Monotone Convergence Critirion for Real Sequences")[
+#tho("the Monotone Convergence Criterion for Real Sequences")[
   A monotone sequence of real numbers converges if and only if it is bounded.
 ]
 
